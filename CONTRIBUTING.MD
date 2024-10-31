@@ -54,10 +54,6 @@ To make a code change:
    - Click "Compare & pull request."
    - Describe your changes in detail.
 
-## Code of Conduct
-
-This project follows a [Code of Conduct](CODE_OF_CONDUCT.md) to foster an open and welcoming environment. Please make sure you follow the guidelines while contributing.
-
 ## Pull Request Process
 
 1. Ensure your code adheres to the project's code style.
